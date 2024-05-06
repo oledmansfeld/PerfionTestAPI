@@ -1,17 +1,17 @@
 {
   "format": 1,
   "restore": {
-    "c:\\inetpub\\wwwroot\\TestAPI\\TestAPI.csproj": {}
+    "C:\\inetpub\\wwwroot\\TestAPI\\TestAPI.csproj": {}
   },
   "projects": {
-    "c:\\inetpub\\wwwroot\\TestAPI\\TestAPI.csproj": {
+    "C:\\inetpub\\wwwroot\\TestAPI\\TestAPI.csproj": {
       "version": "1.0.0",
       "restore": {
-        "projectUniqueName": "c:\\inetpub\\wwwroot\\TestAPI\\TestAPI.csproj",
+        "projectUniqueName": "C:\\inetpub\\wwwroot\\TestAPI\\TestAPI.csproj",
         "projectName": "TestAPI",
-        "projectPath": "c:\\inetpub\\wwwroot\\TestAPI\\TestAPI.csproj",
+        "projectPath": "C:\\inetpub\\wwwroot\\TestAPI\\TestAPI.csproj",
         "packagesPath": "C:\\Users\\ODM\\.nuget\\packages\\",
-        "outputPath": "c:\\inetpub\\wwwroot\\TestAPI\\obj\\",
+        "outputPath": "C:\\inetpub\\wwwroot\\TestAPI\\obj\\",
         "projectStyle": "PackageReference",
         "configFilePaths": [
           "C:\\Users\\ODM\\AppData\\Roaming\\NuGet\\NuGet.Config",
